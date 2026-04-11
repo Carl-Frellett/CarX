@@ -182,7 +182,6 @@ namespace CarX.API
                 string ansiColor = AnsiColorMap[(int)color];
                 string timestamp = DateTime.Now.ToString("HH:mm:ss.fff");
 
-                // 日期无颜色，内容有色
                 string output = $"[{timestamp}] \u001b[0m{ansiColor}{content}\u001b[0m{Environment.NewLine}";
                 WriteConsole(_consoleHandle, output, (uint)output.Length, out _, IntPtr.Zero);
             }
