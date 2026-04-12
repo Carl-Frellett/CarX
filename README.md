@@ -10,6 +10,7 @@
 ![log](./log.png)
 - **Console Command System:** Allows you to register event listeners via code to capture commands entered by users on the server side.
 ![command](./command.png)
+- **Event System:** An Event System Implemented via HarmonyPatch.
 
 ####  Installation & Usage
 
