@@ -16,7 +16,7 @@ Follow these steps to get started:
 1. **Download:** Grab the latest release from the [Releases Page](https://github.com/Carl-Frellett/CarX/releases).
 2. **Extract:** Unzip the downloaded file.
 3. **Install:** Drag both the `CarX` folder and `Taj Mod_Data` folder into the **root directory** of your Taj Mod server.
-4. **Run:** Start your server to initialize the API.
+4. **Run:** Start your server.
 
 #### ️ Disclaimer
 
