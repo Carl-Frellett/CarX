@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Carl.API/CarX.API.csproj" />
+  <Project Path="CarX.Events/CarX.Events.csproj" Id="689f4667-c089-4ef0-b599-d672705274c2" />
+  <Project Path="CarX.ExamplePlugin/CarX.ExamplePlugin.csproj" Id="52de41ac-aafc-47e1-a01c-39d037b81c74" />
+</Solution>
