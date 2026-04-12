@@ -1,6 +1,6 @@
 ###  CarX API
 
-> **A powerful plugin framework for Taj Mod, adapted from Exiled.**
+> **A plugin framework for Taj Mod, adapted from Exiled.**
 
 ---
 
@@ -24,4 +24,4 @@ Follow these steps to get started:
 
 ####  Resources
 
-- **Base Framework:** Check out the original [Exiled Repository Releases](https://github.com/Exiled-Team/EXILED/tree/2.1.14) to see the latest updates from the source.
+- **Base Framework:** Check out the original [Exiled Repository Releases](https://github.com/Exiled-Team/EXILED/tree/2.1.14).
