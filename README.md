@@ -24,4 +24,4 @@ Follow these steps to get started:
 
 ####  Resources
 
-- **Base Framework:** Check out the original [Exiled Repository Releases](https://github.com/Exiled-Team/EXILED/tree/2.1.14).
+- **Base Framework:** [Exiled 2.1.14](https://github.com/Exiled-Team/EXILED/tree/2.1.14).
