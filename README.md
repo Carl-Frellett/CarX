@@ -1,7 +1,27 @@
-# CarX API - A plugin framework for Taj Mod, adapted from Exiled.
-### Disclaimer
-> **Note**: The CarX API is based on code modified from Exiled version 2.1.14. It is not a plagiarism of Exiled, but rather a plugin framework developed for Taj Mod based on Exiled.
-### Features
-- An advanced log display console
-### Usage
-todo...
+###  CarX API
+
+> **A powerful plugin framework for Taj Mod, adapted from Exiled.**
+
+---
+
+####  Features
+
+- **Advanced Console:** An enhanced log display console for better debugging and monitoring.
+- **Console Command System:** Allows you to register event listeners via code to capture commands entered by users on the server side.
+
+####  Installation & Usage
+
+Follow these steps to get started:
+
+1. **Download:** Grab the latest release from the [Releases Page](https://github.com/Carl-Frellett/CarX/releases).
+2. **Extract:** Unzip the downloaded file.
+3. **Install:** Drag both the `CarX` folder and `Taj Mod_Data` folder into the **root directory** of your Taj Mod server.
+4. **Run:** Start your server to initialize the API.
+
+#### ️ Disclaimer
+
+> **Note:** The CarX API is built upon code modified from **Exiled version 2.1.14**. It is not a plagiarism of Exiled, but rather a specialized plugin framework developed for Taj Mod based on Exiled's architecture.
+
+####  Resources
+
+- **Base Framework:** Check out the original [Exiled Repository Releases](https://github.com/Exiled-Team/EXILED/tree/2.1.14) to see the latest updates from the source.
