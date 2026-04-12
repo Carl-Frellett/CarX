@@ -7,7 +7,9 @@
 ####  Features
 
 - **Advanced Console:** An enhanced log display console for better debugging and monitoring.
+![log](./Log.png)
 - **Console Command System:** Allows you to register event listeners via code to capture commands entered by users on the server side.
+![command](./command.png)
 
 ####  Installation & Usage
 
