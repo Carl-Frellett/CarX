@@ -4,6 +4,7 @@ using System.Globalization;
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using UnityEngine;
 
 namespace CarX.API
 {
@@ -89,6 +90,12 @@ namespace CarX.API
         public static void Initialize()
         {
             if (_isInitialized) return;
+
+            if (!RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+            {
+                Debug.Log("You are using a non-Windows system to load the CarX framework.");
+                return;
+            }
 
             try
             {

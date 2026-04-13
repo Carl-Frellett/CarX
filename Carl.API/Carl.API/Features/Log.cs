@@ -1,5 +1,5 @@
 ﻿using CarX.API.Enums;
-using System.Reflection;
+using System.Runtime.InteropServices;
 
 namespace CarX.API.Features
 {
@@ -21,7 +21,14 @@ namespace CarX.API.Features
 
         public static void SendRaw(object message, System.ConsoleColor color = System.ConsoleColor.Gray)
         {
-            ServerConsole.SendRaw(message, color);
+            if (!RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+            {
+                UnityEngine.Debug.Log(message);
+            }
+            else
+            {
+                ServerConsole.SendRaw(message, color);
+            }
         }
     }
 }
