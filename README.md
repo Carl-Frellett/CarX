@@ -1,7 +1,7 @@
 #  CarX API
 
 > **A plugin framework for Taj Mod, adapted from Exiled.**  
-> (The name "CarX" originated from my name, "Carl," plus an "X"; however, I didn't think "CarlX" looked very good, so I simply dropped the "l.")
+> The name "CarX" originated from my name, "Carl," plus an "X"; however, I didn't think "CarlX" looked very good, so I simply dropped the "l." :)
 ---
 
 ####  Features
@@ -27,4 +27,4 @@ Follow these steps to get started:
 
 ####  Resources
 
-- **Base Framework:** [Exiled 2.1.14](https://github.com/Exiled-Team/EXILED/tree/2.1.14).
+- **Base Framework:** [Exiled 2.1.14](https://github.com/Exiled-Team/EXILED/tree/2.1.14),[Exiled 1.11.0](https://github.com/Exiled-Team/EXILED/tree/1.11.0).
