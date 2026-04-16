@@ -1,8 +1,7 @@
 #  CarX API
 
-> **A plugin framework for Taj Mod, adapted from Exiled.**
-> The name "CarX" originated from my name, "Carl," plus an "X"; however, I didn't think "CarlX" looked very good, so I simply dropped the "l."
-
+> **A plugin framework for Taj Mod, adapted from Exiled.**  
+> (The name "CarX" originated from my name, "Carl," plus an "X"; however, I didn't think "CarlX" looked very good, so I simply dropped the "l.")
 ---
 
 ####  Features
